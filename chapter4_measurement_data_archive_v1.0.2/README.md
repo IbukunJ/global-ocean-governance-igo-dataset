@@ -198,4 +198,8 @@ The validator checks:
 
 Researcher-generated data, matrices, figures, and documentation are licensed under **CC BY 4.0**. Original Python and R code is licensed under the **MIT License**. Institutional source documents are not included and remain governed by their issuing organisations.
 
-See `CITATION.cff` for machine-readable citation metadata. Add the final Zenodo DOI to `CITATION.cff` and this README once reserved.
+See `CITATION.cff` for machine-readable citation metadata. A
+
+## Citation
+
+> Adewumi, I. (2026). *Global Ocean Economy Governance IGO Attribute Dataset and Reproducibility Archive* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
