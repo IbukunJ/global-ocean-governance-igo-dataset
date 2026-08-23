@@ -190,7 +190,7 @@ Researcher-generated data, tables, figures, and documentation are licensed under
 
 ## Citation
 
-> Adewumi, I. (2026). *Chapter 5 Data and Reproducibility Archive: Fragmentation, Coordination and Functional Differentiation in Global Ocean Economy Governance* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
+> Adewumi, I. (2026). *Global ocean economy governance IGO data archive III: Dyadic, network, regulatory–delivery, and functional differentiation analyses* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
 .
 
 ## Versioning
