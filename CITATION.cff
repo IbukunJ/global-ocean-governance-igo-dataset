@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite the version-specific Zenodo dataset release used in your analysis."
+type: dataset
+title: "Global Ocean Economy Governance IGO Attribute Dataset and Reproducibility Archive"
+authors:
+  - family-names: "Adewumi"
+    given-names: "Ibukun"
+    affiliation: "Australian National Centre for Ocean Resources and Security (ANCORS), University of Wollongong"
+    # orcid: "https://orcid.org/ADD-VERIFIED-ORCID"
+version: "1.0.0"
+date-released: "2026-07-31"
+abstract: >-
+  Data, documentation, coding frameworks, Python and R scripts, validation
+  records, and analytical outputs supporting a comparative assessment of 48
+  globally mandated intergovernmental organisations involved in global ocean
+  economy governance. The archive documents governance-theme and attribute
+  development, evidence-linked institutional coding, hybrid scoring, dual
+  normalisation, and analyses of fragmentation, relational coordination, and
+  functional differentiation.
+keywords:
+  - "global ocean governance"
+  - "ocean economy"
+  - "intergovernmental organisations"
+  - "institutional design"
+  - "organisational ecology"
+  - "regime complexity"
+  - "governance attributes"
+  - "institutional fragmentation"
+  - "coordination"
+  - "content analysis"
+  - "reproducible research"
+license: "CC-BY-4.0"
+# Add after creation:
+# doi: "10.5281/zenodo.XXXXXXX"
+# url: "https://github.com/YOUR-GITHUB-USERNAME/global-ocean-governance-igo-dataset"
+# repository-code: "https://github.com/YOUR-GITHUB-USERNAME/global-ocean-governance-igo-dataset"
