@@ -14,12 +14,6 @@ This is the first public-safe release of the Chapter 5 data and reproducibility 
 - a standalone public-archive validator; and
 - regenerated manifests and checksums.
 
-## Removed
-
-- the supervisor-marked Chapter 5 working draft containing 36 comments and six tracked-change elements;
-- three nonessential internal literature/concept-note exports containing extensive source-derived quotations and tentative synthesis; and
-- evidence-rich `Traceability_Long` sheets from eight normalised attribute workbooks.
-
 ## Preserved
 
 - the internal root folder `chapter5_data_archive/`;
