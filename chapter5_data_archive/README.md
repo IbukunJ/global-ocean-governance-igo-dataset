@@ -190,10 +190,8 @@ Researcher-generated data, tables, figures, and documentation are licensed under
 
 ## Citation
 
-Use `CITATION.cff` and the version-specific Zenodo DOI once assigned. Until a DOI is added, cite:
-
-> Adewumi, I. (2026). *Chapter 5 Data and Reproducibility Archive: Fragmentation, Coordination and Functional Differentiation in Global Ocean Economy Governance* (Version 1.0.0) [Data set].
+> Adewumi, I. (2026). *Chapter 5 Data and Reproducibility Archive: Fragmentation, Coordination and Functional Differentiation in Global Ocean Economy Governance* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
+.
 
 ## Versioning
 
-Substantive changes to data, classifications, or analytical outputs should be released as a new version. The GitHub repository may remain a living development environment, while Zenodo should preserve immutable, versioned release archives.
