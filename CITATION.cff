@@ -6,7 +6,7 @@ authors:
   - family-names: "Adewumi"
     given-names: "Ibukun"
     affiliation: "Australian National Centre for Ocean Resources and Security (ANCORS), University of Wollongong"
-    # orcid: "https://orcid.org/ADD-VERIFIED-ORCID"
+    orcid: "https://orcid.org/0000-0001-5468-061X"
 version: "1.0.0"
 date-released: "2026-07-31"
 abstract: >-
@@ -31,6 +31,6 @@ keywords:
   - "reproducible research"
 license: "CC-BY-4.0"
 
-# doi: 10.5281/zenodo.22058522
-# url: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
-# repository-code: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
+doi: 10.5281/zenodo.22058522
+url: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
+repository-code: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
