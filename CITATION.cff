@@ -31,6 +31,6 @@ keywords:
   - "reproducible research"
 license: "CC-BY-4.0"
 # Add after creation:
-# doi: "10.5281/zenodo.XXXXXXX"
-# url: "https://github.com/YOUR-GITHUB-USERNAME/global-ocean-governance-igo-dataset"
-# repository-code: "https://github.com/YOUR-GITHUB-USERNAME/global-ocean-governance-igo-dataset"
+# doi: 10.5281/zenodo.22058522
+# url: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
+# repository-code: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git 
