@@ -1,0 +1,64 @@
+# Operating-system metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+Desktop.ini
+
+# Office temporary and lock files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+*.bak
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# R session and local library files
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+
+# IDE and notebook state
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Original ZIP snapshots belong in GitHub Releases and Zenodo, not Git history
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Third-party source documents excluded from the public repository unless cleared
+**/02_document_corpus/data/raw/igo_documents/
+
+# Unrestricted full-text extraction products excluded from the public repository
+**/02_document_corpus/data/interim/ch04_s2_corpus_pages_*.csv.gz
+**/02_document_corpus/data/interim/ch04_s2_corpus_paragraphs_*.csv.gz
+
+# Supervisory/working material excluded from public release
+**/00_documentation/archive_notes/chapter5_marked_or_working_draft_reference.docx
+
+# Local-only working areas
+scratch/
+temp/
+local_outputs/
+local_cache/
