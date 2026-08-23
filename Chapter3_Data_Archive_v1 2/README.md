@@ -79,7 +79,6 @@ files, and working thesis drafts.
 4. Consult the workbook and CSV files for record-level provenance.
 5. Follow Stage 2 and Stage 3 code, configuration files, logs, and tables for computational reproducibility.
 
-## Release-specific change
+## Citation
 
-Release v1.1.0 supersedes the earlier intermediate literature count of 91 with the evidence-supported
-count of 90. No substantive Stage 2 or Stage 3 analytical output has been changed by this reconciliation.
+> Adewumi, I. (2026). *Global Ocean Economy Governance IGO Attribute Dataset and Reproducibility Archive* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
