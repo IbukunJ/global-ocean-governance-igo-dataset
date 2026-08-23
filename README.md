@@ -140,4 +140,4 @@ Researcher-generated data, documentation, tables, and figures are licensed under
 Australian National Centre for Ocean Resources and Security (ANCORS)  
 University of Wollongong
 
-Add the verified ORCID, repository contact email, GitHub URL, and Zenodo DOI before public release.
+https://orcid.org/0000-0001-5468-061X, ibukunadewumi@gmail.com, GitHub URL: https://github.com/IbukunJ/global-ocean-governance-igo-dataset.git, and Zenodo DOI: 10.5281/zenodo.22058522.
