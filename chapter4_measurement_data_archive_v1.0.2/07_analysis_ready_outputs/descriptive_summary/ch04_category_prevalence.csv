@@ -1,0 +1,81 @@
+column,family,category,activation_count,activation_pct,mean_across,sd_across,mean_hybrid,max_hybrid
+defined_interinstitutional_relationships__un_system_collaboration,Inter-Institutional Relationships,UN System Collaboration,48,100.0,6.375,3.1054173666798146,4.1875,6.0
+vertical_coordination__global_regional_national_coordination,Vertical Coordination,Global–Regional–National Coordination,48,100.0,0.0,0.0,1.0,1.0
+vertical_coordination__un_to_member_states,Vertical Coordination,UN to Member States,48,100.0,4.374999999999917,2.296698215925712,2.3125,4.0
+horizontal_coordination__advocacy_and_communication,Horizontal Coordination,Advocacy and Communication,48,100.0,5.416666666666667,2.4393348703958377,3.7083333333333335,6.0
+strategies__strategic_and_institutional_planning,Strategies,Strategic & Institutional Planning,47,97.91666666666666,5.763888888888812,2.173294101083218,3.4583333333333335,6.0
+strategies__financial_and_budgetary_management,Strategies,Financial & Budgetary Management,45,93.75,4.0972222222221255,2.200320558349507,2.4583333333333335,6.0
+strategies__innovation_and_technology_development,Strategies,Innovation & Technology Development,45,93.75,4.895833333333333,2.576403425306114,1.9583333333333333,4.0
+horizontal_coordination__thematic_working_groups,Horizontal Coordination,Thematic Working Groups,44,91.66666666666666,9.166666666666666,2.7931019386546407,0.9166666666666666,1.0
+horizontal_coordination__multi_stakeholder_platforms,Horizontal Coordination,Multi-stakeholder Platforms,44,91.66666666666666,4.6875,1.5999501322015992,0.9375,2.0
+vertical_coordination__intergovernmental_to_national_institutions,Vertical Coordination,Intergovernmental to National Institutions,43,89.58333333333334,8.958333333333334,3.0870927818858362,0.8958333333333334,1.0
+strategies__policy_regulation_and_legal_frameworks,Strategies,"Policy, Regulation & Legal Frameworks",43,89.58333333333334,4.375,2.3912517864881937,1.75,4.0
+subject_matter_jurisdiction__sustainable_development_and_capacity_building,Subject-Matter Jurisdiction,Sustainable Development & Capacity Building,42,87.5,3.8333333333333335,2.327754221629091,1.9166666666666667,5.0
+sources_of_jurisdiction__non_binding_secondary_law,Sources of Jurisdiction or Authority,Non-binding Secondary Law,41,85.41666666666666,5.393518518518834,2.5107029452720897,4.854166666666667,9.0
+sources_of_jurisdiction__foundational_treaties_and_charters,Sources of Jurisdiction or Authority,Foundational Treaties & Charters,40,83.33333333333334,6.232638888888979,2.937436601264105,7.479166666666667,12.0
+vertical_coordination__regional_implementing_partners,Vertical Coordination,Regional Implementing Partners,39,81.25,4.86111111111125,2.7468729982866815,1.4583333333333333,3.0
+defined_objectives__innovation_and_technology,Defined Objectives,Innovation & Technology,38,79.16666666666666,3.472222222222083,2.4752518159581025,1.0416666666666667,3.0
+defined_interinstitutional_relationships__regional_body_coordination,Inter-Institutional Relationships,Regional Body Coordination,36,75.0,2.5,2.062842492517587,1.0,4.0
+horizontal_coordination__cross_sectoral_collaboration,Horizontal Coordination,Cross-sectoral Collaboration,36,75.0,3.8541666666666665,2.360937276315285,0.7708333333333334,2.0
+defined_interinstitutional_relationships__treaty_body_coordination,Inter-Institutional Relationships,Treaty Body Coordination,36,75.0,2.7604166666666665,2.4320326480987955,1.1041666666666667,4.0
+sources_of_jurisdiction__bilateral_multilateral_arrangements,Sources of Jurisdiction or Authority,Bilateral/Multilateral Arrangements,35,72.91666666666666,7.291666666666667,4.490928602896293,2.9166666666666665,4.0
+defined_objectives__operational_delivery,Defined Objectives,Operational Delivery,34,70.83333333333334,5.000000000000167,3.5061580409386126,1.5,3.0
+strategies__knowledge_research_and_data_systems,Strategies,"Knowledge, Research & Data Systems",34,70.83333333333334,2.777777777777709,2.3902217404414428,1.6666666666666667,6.0
+sources_of_jurisdiction__binding_secondary_law,Sources of Jurisdiction or Authority,Binding Secondary Law,34,70.83333333333334,4.98263888888902,3.290907235014753,5.979166666666667,12.0
+strategies__capacity_development_and_operational_delivery,Strategies,Capacity Development & Operational Delivery,34,70.83333333333334,3.90625,2.9583208470418745,1.5625,4.0
+subject_matter_jurisdiction__research_science_and_innovation,Subject-Matter Jurisdiction,"Research, Science & Innovation",33,68.75,2.9166666666665417,2.4188972342344615,1.75,6.0
+subject_matter_jurisdiction__international_cooperation_and_governance,Subject-Matter Jurisdiction,International Cooperation & Governance,31,64.58333333333334,3.541666666666604,3.396998396930362,1.0625,3.0
+defined_objectives__knowledge_and_data,Defined Objectives,Knowledge & Data,31,64.58333333333334,3.6979166666666665,3.1786180312602017,1.4791666666666667,4.0
+defined_interinstitutional_relationships__technical_or_expert_groups,Inter-Institutional Relationships,Technical or Expert Groups,30,62.5,3.4375,2.9456513205278827,0.6875,2.0
+subject_matter_jurisdiction__environmental_protection_and_climate_change,Subject-Matter Jurisdiction,Environmental Protection & Climate Change,30,62.5,3.1666666666666665,2.941510202175669,1.5833333333333333,5.0
+strategies__collaboration_partnerships_and_networks,Strategies,"Collaboration, Partnerships & Networks",30,62.5,2.8124999999999587,2.6665835536693328,1.6875,6.0
+defined_interinstitutional_relationships__donor_partnerships,Inter-Institutional Relationships,Donor Partnerships,29,60.416666666666664,2.2222222222222086,2.365366072891544,1.3333333333333333,6.0
+horizontal_coordination__regional_economic_community_coordination,Horizontal Coordination,Regional Economic Community Coordination,29,60.416666666666664,3.125,2.654782917759102,0.625,2.0
+vertical_coordination__reporting_and_compliance_mechanisms,Vertical Coordination,Reporting & Compliance Mechanisms,29,60.416666666666664,2.5,2.526455763199557,1.0,4.0
+strategies__environmental_climate_and_biodiversity_action,Strategies,"Environmental, Climate & Biodiversity Action",29,60.416666666666664,3.0,2.97507375199124,1.5,5.0
+defined_interinstitutional_relationships__civil_society_engagement,Inter-Institutional Relationships,Civil Society Engagement,28,58.333333333333336,4.270833333333333,4.124341769962935,0.8541666666666666,2.0
+spatial_jurisdiction__archipelago,Spatial Jurisdiction,Archipelago,27,56.25,5.625,5.013280235873939,2.25,4.0
+defined_objectives__policy_and_regulation,Defined Objectives,Policy & Regulation,26,54.166666666666664,2.5,2.7771866983418323,1.0,4.0
+defined_interinstitutional_relationships__intergovernmental_consultations,Inter-Institutional Relationships,Intergovernmental Consultations,26,54.166666666666664,2.986111111111125,3.168967684589705,0.8958333333333334,3.0
+spatial_jurisdiction__enclosed_or_semi_enclosed_sea,Spatial Jurisdiction,Enclosed or semi-enclosed sea,26,54.166666666666664,5.416666666666667,5.0353361287085905,2.7083333333333335,5.0
+defined_objectives__partnerships_and_networks,Defined Objectives,Partnerships & Networks,26,54.166666666666664,2.2395833333333335,2.4320326480987955,0.8958333333333334,4.0
+vertical_coordination__technical_assistance_to_states,Vertical Coordination,Technical Assistance to States,25,52.083333333333336,2.7083333333333335,3.208753541607728,1.3541666666666667,5.0
+defined_interinstitutional_relationships__scientific_community_linkages,Inter-Institutional Relationships,Scientific Community Linkages,24,50.0,2.0138888888887707,2.355977592773649,0.6041666666666666,3.0
+horizontal_coordination__inter_agency_technical_cooperation,Horizontal Coordination,Inter-agency Technical Cooperation,24,50.0,2.291666666666583,2.763853991962844,0.6875,3.0
+spatial_jurisdiction__internal_waters,Spatial Jurisdiction,Internal waters,23,47.91666666666667,4.791666666666667,5.04852341308647,0.9583333333333334,2.0
+spatial_jurisdiction__coastal_zone,Spatial Jurisdiction,Coastal Zone,23,47.91666666666667,3.8541666666666665,4.124341769962935,1.5416666666666667,4.0
+horizontal_coordination__shared_monitoring_frameworks,Horizontal Coordination,Shared Monitoring Frameworks,23,47.91666666666667,4.791666666666667,5.04852341308647,0.4791666666666667,1.0
+defined_objectives__governance_and_planning,Defined Objectives,Governance & Planning,22,45.83333333333333,2.9166666666666665,3.5480491093373416,0.5833333333333334,2.0
+subject_matter_jurisdiction__trade_investment_and_economic_cooperation,Subject-Matter Jurisdiction,"Trade, Investment & Economic Cooperation",18,37.5,1.5833333333333333,2.3685288847751433,0.7916666666666666,5.0
+defined_objectives__environmental_action,Defined Objectives,Environmental Action,18,37.5,1.6145833333333333,2.499445860571714,0.6458333333333334,4.0
+defined_interinstitutional_relationships__private_sector_partnerships,Inter-Institutional Relationships,Private Sector Partnerships,18,37.5,2.500000000000062,3.4722813233741814,0.75,3.0
+strategies__monitoring_evaluation_and_accountability,Strategies,"Monitoring, Evaluation & Accountability",18,37.5,1.7013888888888544,2.561064701148159,1.0208333333333333,6.0
+strategies__inclusion_rights_and_social_justice,Strategies,"Inclusion, Rights & Social Justice",16,33.33333333333333,2.361111111111125,3.70025450107621,0.7083333333333334,3.0
+subject_matter_jurisdiction__biodiversity_and_ecosystem_conservation,Subject-Matter Jurisdiction,Biodiversity & Ecosystem Conservation,16,33.33333333333333,1.5624999999999583,2.559140896406336,0.9375,6.0
+vertical_coordination__policy_alignment_with_national_plans,Vertical Coordination,Policy Alignment with National Plans,15,31.25,3.125,4.684174352188668,0.3125,1.0
+vertical_coordination__multi_level_planning_structures,Vertical Coordination,Multi-level Planning Structures,15,31.25,1.6666666666666667,2.5956865474248367,0.3333333333333333,2.0
+subject_matter_jurisdiction__human_rights_social_justice_and_advocacy,Subject-Matter Jurisdiction,"Human Rights, Social Justice & Advocacy",14,29.166666666666668,2.0833333333333335,3.6140649857245757,0.625,3.0
+defined_objectives__inclusion_and_rights,Defined Objectives,Inclusion & Rights,14,29.166666666666668,1.3541666666666667,2.4710199748913517,0.5416666666666666,4.0
+defined_objectives__monitoring_and_accountability,Defined Objectives,Monitoring & Accountability,14,29.166666666666668,1.25,2.4188972342344837,0.5,4.0
+spatial_jurisdiction__high_seas,Spatial Jurisdiction,High Seas,12,25.0,2.5,4.375949744936837,2.25,9.0
+defined_interinstitutional_relationships__ngo_engagement,Inter-Institutional Relationships,NGO Engagement,11,22.916666666666664,2.1875,4.113580259724063,0.4375,2.0
+subject_matter_jurisdiction__disaster_risk_reduction_and_resilience,Subject-Matter Jurisdiction,Disaster Risk Reduction & Resilience,10,20.833333333333336,1.09375,2.3009162143659023,0.4375,4.0
+defined_objectives__financial_stewardship,Defined Objectives,Financial Stewardship,10,20.833333333333336,1.3194444444444582,2.813307059584043,0.3958333333333333,3.0
+subject_matter_jurisdiction__security_and_safety,Subject-Matter Jurisdiction,Security & Safety,9,18.75,0.9166666666666666,2.1421140217713677,0.4583333333333333,5.0
+sources_of_jurisdiction__technical_norms_and_standards,Sources of Jurisdiction or Authority,Technical Norms & Standards,7,14.583333333333334,1.09375,2.724311839712921,0.875,8.0
+vertical_coordination__sectoral_to_national_coordination,Vertical Coordination,Sectoral-to-National Coordination,7,14.583333333333334,1.4583333333333333,3.5667395763741645,0.14583333333333334,1.0
+sources_of_jurisdiction__delegated_or_derived_powers,Sources of Jurisdiction or Authority,Delegated or Derived Powers,3,6.25,0.625,2.4462302739504085,0.3125,5.0
+vertical_coordination__data_integration_systems,Vertical Coordination,Data Integration Systems,2,4.166666666666666,0.4166666666666667,2.0194093652345884,0.041666666666666664,1.0
+sources_of_jurisdiction__compliance_and_oversight,Sources of Jurisdiction or Authority,Compliance & Oversight,2,4.166666666666666,0.3645833333333333,1.7856984548437078,0.2916666666666667,8.0
+horizontal_coordination__peer_to_peer_learning_mechanisms,Horizontal Coordination,Peer-to-peer Learning Mechanisms,2,4.166666666666666,0.3125,1.5999501322015992,0.0625,2.0
+horizontal_coordination__joint_research_and_projects,Horizontal Coordination,Joint Research and Projects,2,4.166666666666666,0.4166666666666667,2.0194093652345884,0.08333333333333333,2.0
+spatial_jurisdiction__the_area,Spatial Jurisdiction,The Area,1,2.083333333333333,0.20833333333333334,1.443375672974064,0.22916666666666666,11.0
+subject_matter_jurisdiction__cultural_heritage_traditional_knowledge_and_data_governance,Subject-Matter Jurisdiction,"Cultural Heritage, Traditional Knowledge & Data Governance",1,2.083333333333333,0.20833333333333334,1.4433756729740643,0.020833333333333332,1.0
+horizontal_coordination__cross_border_initiatives,Horizontal Coordination,Cross-border Initiatives,1,2.083333333333333,0.20833333333333334,1.4433756729740643,0.020833333333333332,1.0
+spatial_jurisdiction__territorial_sea_ts,Spatial Jurisdiction,Territorial sea (TS),0,0.0,0.0,0.0,0.0,0.0
+spatial_jurisdiction__extended_continental_shelf_cs,Spatial Jurisdiction,Extended continental shelf (CS),0,0.0,0.0,0.0,0.0,0.0
+spatial_jurisdiction__exclusive_economic_zone_eez,Spatial Jurisdiction,Exclusive Economic Zone (EEZ),0,0.0,0.0,0.0,0.0,0.0
+spatial_jurisdiction__contiguous_zone_cz,Spatial Jurisdiction,Contiguous zone (CZ),0,0.0,0.0,0.0,0.0,0.0
+sources_of_jurisdiction__customary_and_soft_law,Sources of Jurisdiction or Authority,Customary & Soft Law,0,0.0,0.0,0.0,0.0,0.0
+sources_of_jurisdiction__other_governance_instruments,Sources of Jurisdiction or Authority,Other Governance Instruments,0,0.0,0.0,0.0,0.0,0.0
+sources_of_jurisdiction__strategic_frameworks,Sources of Jurisdiction or Authority,Strategic Frameworks,0,0.0,0.0,0.0,0.0,0.0

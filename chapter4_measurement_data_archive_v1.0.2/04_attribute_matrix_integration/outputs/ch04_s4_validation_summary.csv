@@ -1,0 +1,8 @@
+validation_dimension,verified_result,action_or_interpretation
+case_coverage,48 of 48 IGOs represented (100%),All selected cases retained
+attribute_coverage,432 of 432 IGO x attribute fields populated (100%),No attribute field required imputation
+missing_attribute_fields,0,No blank attribute fields
+duplicate_organisational_rows,0,Canonical identifiers produced one row per IGO
+orphan_evidence_records,0,No retained Step 3 evidence remained unmatched in Step 4 integration
+targeted_manual_rechecks,not verified,Do not report a count until a final manual-review register is available
+manual_corrections,not verified,Do not report a count until a final correction log is available

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and the associated publications."
+title: "Chapter 4 Measurement Data Archive: Global Ocean Economy Governance IGOs — Public-Safe Edition"
+version: "1.0.3"
+date-released: 2026-08-02
+authors:
+  - family-names: "Adewumi"
+    given-names: "Ibukun"
+type: dataset

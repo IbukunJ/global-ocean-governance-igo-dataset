@@ -1,0 +1,48 @@
+igo_id,igo_name,n_docs,pages_extracted,paras_extracted
+UNCTAD,United Nations Conference on Trade and Development (UNCTAD),2,135,396
+IHO,International Hydrographic Organization (IHO),2,89,517
+ITU,International Telecommunication Union (ITU),2,90,390
+ISA,International Seabed Authority,2,16,16
+IPBES,The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES),2,7,22
+UNEP,United Nations Environment Programme (UNEP),2,5,53
+UNWTO,World Tourism Organization/UN Tourism (UNWTO),2,84,288
+UNRISD,UN Research Institute for Social Development (UNRISD),2,10,3
+UNFCCC,Climate Change Secretariat,2,33,34
+WBG,World Bank Group (WBG),2,22,570
+WFP,World Food Programme (WFP),2,78,86
+WMO,World Meteorological Organization (WMO),1,205,197
+UNFPA,UN Population Fund (UNFPA),1,2,0
+UNGC,UN Global Compact Office,1,40,260
+UNHCR_OHCHR,"Commissioner for Refugees (UNHCR), and the Office of the United Nations High Commissioner for Human Rights (OHCHR)",1,16,14
+UNICEF,United Nations Children’s Fund (UNICEF),1,6,6
+UNIDO,United Nations Industrial Development Organization (UNIDO),1,36,37
+UN_WOMEN,UN Entity for Gender Equality and the Empowerment of Women (UN-Women),1,14,134
+UNODC,United Nations Office on Drugs and Crime (UNODC),1,11,110
+UN_DOALOS,Division for Ocean Affairs and the Law of the Sea (UN DOALOS),1,9,96
+UNOOSA,United Nations Office for Outer Space Affairs (UNOOSA),1,2,0
+WHO,World Health Organization (WHO),1,146,1
+UNOPS,United Nations Office for Project Services (UNOPS),1,29,0
+UNU,United Nations University (UNU),1,12,14
+WIPO,World Intellectual Property Organisation (WIPO),1,11,11
+BRS,"Secretariat of the Basel, Rotterdam and Stockholm Conventions (BRS)",1,12,12
+UNDRR,United Nations Office for Disaster Risk Reduction (UNDRR),1,12,100
+IMO,Convention on the Intergovernmental Maritime Consultative Organization (IMO) Secretariat,1,102,93
+CITES,Secretariat of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),1,16,130
+CMS,Secretariat of the Convention on Migratory Species (CMS),1,6,9
+FAO,Food and Agriculture Organization of the United Nations (FAO),1,245,352
+IAEA,International Atomic Energy Agency (IAEA),1,77,76
+ICES,International Council for the Exploration of the Sea (ICES),1,4,49
+IFAD,International Fund for Agricultural Development (IFAD),1,29,105
+ILO,International Labour Organization (ILO),1,44,42
+IMF,International Monetary Fund (IMF),1,136,312
+IOC,Intergovernmental Oceanographic Commission (IOC),1,41,41
+UNDP,United Nations Development Programme (UNDP),1,2,2
+IOM,International Organization for Migration (IOM),1,84,114
+IPCC,IPCC,1,12,106
+ITC,International Trade Centre (ITC),1,15,15
+MINAMATA,Minamata Convention on Mercury (Minamata),1,72,64
+OECD,Organisation for Economic Co-operation and Development (OECD),1,14,14
+RAMSAR,Ramsar Convention on Wetlands Secretariat (Ramsar),1,116,114
+UNCCD,Secretariat of the United Nations Convention to Combat Desertification (UNCCD),1,56,64
+CBD,Secretariat of the Convention on Biological Diversity (CBD),1,36,35
+WTO,World Trade Organization (WTO),1,42,55

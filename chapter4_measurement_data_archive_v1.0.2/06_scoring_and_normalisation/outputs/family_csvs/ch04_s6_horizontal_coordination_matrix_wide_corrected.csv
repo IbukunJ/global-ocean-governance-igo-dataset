@@ -1,0 +1,49 @@
+institution,ordinal_score_horizontal_coordination,cross_sectoral_collaboration__within_igo,thematic_working_groups__within_igo,joint_research_and_projects__within_igo,shared_monitoring_frameworks__within_igo,multi_stakeholder_platforms__within_igo,inter_agency_technical_cooperation__within_igo,regional_economic_community_coordination__within_igo,advocacy_and_communication__within_igo,cross_border_initiatives__within_igo,peer_to_peer_learning_mechanisms__within_igo,cross_sectoral_collaboration__across_igo,thematic_working_groups__across_igo,joint_research_and_projects__across_igo,shared_monitoring_frameworks__across_igo,multi_stakeholder_platforms__across_igo,inter_agency_technical_cooperation__across_igo,regional_economic_community_coordination__across_igo,advocacy_and_communication__across_igo,cross_border_initiatives__across_igo,peer_to_peer_learning_mechanisms__across_igo
+Intergovernmental Oceanographic Commission (IOC),6,2.5,2.5,0.0,2.5,2.5,2.5,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,0.0,6.0,0.0,0.0
+Food and Agriculture Organization of the United Nations (FAO),6,3.333333333333,3.333333333333,0.0,3.333333333333,3.333333333333,3.333333333333,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,0.0,4.0,0.0,0.0
+Convention on the Intergovernmental Maritime Consultative Organization (IMO) Secretariat,6,2.5,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+Division for Ocean Affairs and the Law of the Sea (UN DOALOS),7,2.5,2.5,0.0,0.0,2.5,7.5,2.5,10.0,0.0,2.5,5.0,10.0,0.0,0.0,5.0,10.0,5.0,6.0,0.0,5.0
+Climate Change Secretariat,4,5.0,5.0,0.0,5.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0
+International Seabed Authority,3,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0
+United Nations Environment Programme (UNEP),6,10.0,10.0,0.0,10.0,10.0,10.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,0.0,0.0,0.0,0.0
+United Nations Development Programme (UNDP),5,2.5,2.5,0.0,0.0,2.5,0.0,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,5.0,6.0,0.0,0.0
+United Nations Conference on Trade and Development (UNCTAD),4,10.0,10.0,0.0,0.0,10.0,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+United Nations Industrial Development Organization (UNIDO),4,10.0,10.0,0.0,0.0,10.0,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+International Labour Organization (ILO),6,10.0,10.0,0.0,10.0,10.0,10.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,0.0,0.0,0.0,0.0
+International Telecommunication Union (ITU),4,10.0,10.0,0.0,0.0,10.0,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+United Nations Children’s Fund (UNICEF),6,2.5,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+World Health Organization (WHO),7,2.0,2.0,0.0,2.0,2.0,4.0,2.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,6.666666666667,5.0,8.0,0.0,0.0
+"Commissioner for Refugees (UNHCR), and the Office of the United Nations High Commissioner for Human Rights (OHCHR)",5,0.0,0.0,0.0,2.5,2.5,2.5,2.5,10.0,0.0,0.0,0.0,0.0,0.0,10.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+United Nations Office for Disaster Risk Reduction (UNDRR),5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,0.0,6.0,0.0,0.0
+UN Global Compact Office,6,2.0,2.0,0.0,2.0,2.0,0.0,2.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,5.0,8.0,0.0,0.0
+International Atomic Energy Agency (IAEA),6,2.5,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+World Meteorological Organization (WMO),5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+Organisation for Economic Co-operation and Development (OECD),4,2.5,2.5,0.0,0.0,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,6.0,0.0,0.0
+World Bank Group (WBG),5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,0.0,6.0,0.0,0.0
+International Monetary Fund (IMF),4,0.0,5.0,0.0,5.0,0.0,10.0,0.0,10.0,0.0,0.0,0.0,10.0,0.0,10.0,0.0,6.666666666667,0.0,2.0,0.0,0.0
+International Hydrographic Organization (IHO),7,2.5,2.5,0.0,2.5,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+International Council for the Exploration of the Sea (ICES),5,2.5,2.5,0.0,0.0,2.5,0.0,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,5.0,6.0,0.0,0.0
+The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES),6,0.0,2.0,0.0,2.0,2.0,2.0,2.0,10.0,0.0,0.0,0.0,10.0,0.0,10.0,5.0,3.333333333333,5.0,8.0,0.0,0.0
+IPCC,5,1.666666666667,1.666666666667,0.0,1.666666666667,0.0,0.0,1.666666666667,10.0,0.0,0.0,5.0,10.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0
+World Trade Organization (WTO),5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,0.0,6.0,0.0,0.0
+International Organization for Migration (IOM),4,0.0,2.5,0.0,2.5,2.5,0.0,0.0,10.0,0.0,0.0,0.0,10.0,0.0,10.0,5.0,0.0,0.0,6.0,0.0,0.0
+United Nations Office for Project Services (UNOPS),4,5.0,0.0,0.0,0.0,5.0,0.0,2.5,10.0,0.0,0.0,10.0,0.0,0.0,0.0,10.0,0.0,5.0,6.0,0.0,0.0
+UN Entity for Gender Equality and the Empowerment of Women (UN-Women),6,0.0,2.0,0.0,2.0,2.0,0.0,2.0,10.0,0.0,4.0,0.0,10.0,0.0,10.0,5.0,0.0,5.0,8.0,0.0,10.0
+World Intellectual Property Organisation (WIPO),5,2.0,2.0,0.0,0.0,2.0,4.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,6.666666666667,0.0,8.0,0.0,0.0
+UN Population Fund (UNFPA),5,0.0,2.5,0.0,0.0,2.5,2.5,5.0,10.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,3.333333333333,10.0,6.0,0.0,0.0
+United Nations Human Settlements Programme (UN-Habitat),5,2.5,2.5,0.0,0.0,2.5,0.0,0.0,10.0,2.5,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,6.0,10.0,0.0
+World Food Programme (WFP),5,0.0,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+World Tourism Organization/UN Tourism (UNWTO),6,2.5,2.5,0.0,0.0,2.5,5.0,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,6.666666666667,5.0,6.0,0.0,0.0
+UN Research Institute for Social Development (UNRISD),7,2.5,2.5,5.0,0.0,2.5,7.5,2.5,10.0,0.0,0.0,5.0,10.0,10.0,0.0,5.0,10.0,5.0,6.0,0.0,0.0
+"Secretariat of the Basel, Rotterdam and Stockholm Conventions (BRS)",6,2.5,2.5,0.0,0.0,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+Secretariat of the Convention on Biological Diversity (CBD),4,0.0,2.5,0.0,0.0,2.5,0.0,2.5,10.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,0.0,5.0,6.0,0.0,0.0
+Secretariat of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),5,2.5,2.5,0.0,2.5,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,0.0,6.0,0.0,0.0
+Secretariat of the Convention on Migratory Species (CMS),6,2.0,2.0,0.0,2.0,2.0,0.0,2.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,0.0,5.0,8.0,0.0,0.0
+International Fund for Agricultural Development (IFAD),4,0.0,2.5,0.0,0.0,2.5,0.0,2.5,10.0,0.0,0.0,0.0,10.0,0.0,0.0,5.0,0.0,5.0,6.0,0.0,0.0
+International Trade Centre (ITC),7,2.5,2.5,0.0,2.5,2.5,2.5,2.5,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+Secretariat of the United Nations Convention to Combat Desertification (UNCCD),6,0.0,2.5,0.0,2.5,2.5,2.5,2.5,10.0,0.0,0.0,0.0,10.0,0.0,10.0,5.0,3.333333333333,5.0,6.0,0.0,0.0
+United Nations University (UNU),5,2.5,0.0,5.0,0.0,2.5,0.0,2.5,10.0,0.0,0.0,5.0,0.0,10.0,0.0,5.0,0.0,5.0,6.0,0.0,0.0
+Ramsar Convention on Wetlands Secretariat (Ramsar),5,0.0,2.5,0.0,2.5,2.5,0.0,2.5,10.0,0.0,0.0,0.0,10.0,0.0,10.0,5.0,0.0,5.0,6.0,0.0,0.0
+Minamata Convention on Mercury (Minamata),4,2.5,2.5,0.0,0.0,2.5,0.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,0.0,0.0,6.0,0.0,0.0
+United Nations Office for Outer Space Affairs (UNOOSA),7,2.0,2.0,0.0,2.0,2.0,2.0,2.0,10.0,0.0,0.0,5.0,10.0,0.0,10.0,5.0,3.333333333333,5.0,8.0,0.0,0.0
+United Nations Office on Drugs and Crime (UNODC),5,2.5,2.5,0.0,0.0,2.5,5.0,0.0,10.0,0.0,0.0,5.0,10.0,0.0,0.0,5.0,6.666666666667,0.0,6.0,0.0,0.0

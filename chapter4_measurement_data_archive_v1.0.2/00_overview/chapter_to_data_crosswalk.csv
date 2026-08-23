@@ -1,0 +1,22 @@
+chapter_location,claim_or_output,canonical_file,specific_content
+4.1.1,Study population and case selection,01_study_population/data/ch04_s1_igo_roster_48.csv,Final 48-IGO roster
+4.1.2 and documentary-corpus results table,Documentary corpus summary,02_document_corpus/data/processed/ch04_s2_document_extraction_summary_58.csv,"58 registered documents; 2,435 pages; 5,159 paragraph units; 130 exceptions"
+4.1.2,Public document provenance,02_document_corpus/data/processed/ch04_s2_public_source_register_58.csv,"Document identifiers, issuing organisations, filenames, hashes, extraction metadata, and public-withholding status; source URLs/access dates retained only where originally recorded"
+4.1.2,Page-level corpus index,02_document_corpus/data/interim/ch04_s2_page_index_public_2435.csv.gz,Metadata-only page index; extracted page text not distributed
+4.1.2,Paragraph-level corpus index,02_document_corpus/data/interim/ch04_s2_paragraph_index_public_5159.csv.gz,"Metadata-only paragraph index; paragraph text withheld; locators, lengths, and hashes retained"
+4.1.3 and evidence-screening results table,Evidence retrieval and CLEAN review,03_attribute_coding_clean_review/outputs/tables/ch04_s3_summary_statistics.csv,"3,636 reviewed; 2,882 accepted; 192 retagged; 562 rejected"
+4.1.3,Public decision audit,03_attribute_coding_clean_review/data/ch04_s3_decision_log_public_3676.csv,"Coding decisions, rationales, source locators, and hashes; source excerpts and duplicated long text withheld"
+4.1.3,Public traceability index,03_attribute_coding_clean_review/data/ch04_s3_traceability_index_public_3074.csv,"3,074 retained evidence records represented through identifiers, decisions, locators, and cryptographic hashes"
+4.1.4 and baseline-matrix results tables,Baseline Attribute Matrix and validation,04_attribute_matrix_integration/data/ch04_s4_baseline_attribute_matrix_wide_48x10.csv,48 cases; nine substantive attributes plus auxiliary scale; researcher-generated synthesis
+4.1.4,Matrix integrity,04_attribute_matrix_integration/outputs/ch04_s4_integrity_checks.csv,"Coverage, uniqueness, orphan-evidence, and connectivity checks"
+4.1.5,Category-development and attribute-mapping provenance,05_category_schema/documentation/ch03_attribute_category_identification_v1.0.docx,Read-only Chapter 3-origin methodological source; executable schema is ch04_s5_category_schema_80_reconciled.csv
+4.1.5,Category schema,05_category_schema/data/ch04_s5_category_schema_80_reconciled.csv,Eight families × ten categories
+4.1.5,Category activation matrix,05_category_schema/data/ch04_s5_category_activation_matrix_48x80.csv,"1,862 CLEAN-confirmed activations"
+4.1.6 and Equations 4.1–4.3,Hybrid scoring and dual normalisation,06_scoring_and_normalisation/outputs/,"Corrected hybrid, within-IGO, and across-IGO matrices; source-dependent text inputs excluded from public edition"
+4.2.4 and descriptive-statistics table,Descriptive statistics,06_scoring_and_normalisation/outputs/ch04_s6_descriptive_statistics_corrected.csv,"Equation-consistent means, standard deviations, ranges, and zero-score shares"
+Worked IOC strategies example,Public matrix-wide scoring output,06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_strategies_matrix_wide_corrected.csv,Final category scores for the strategies family; verbatim/KWIC traceability withheld
+4.2.5 and measurement-output summary,Principal data products,07_analysis_ready_outputs/ch04_analysis_ready_matrices.xlsx,"Roster, activation, hybrid, within, across, statistics, and master matrix"
+4.2.5,Overall attribute-family descriptive profile,07_analysis_ready_outputs/descriptive_summary/ch04_family_summary.csv,Activation rates and corrected within-IGO/across-IGO statistics by family
+4.2.5 and Table 4.13,Most and least prevalent categories,07_analysis_ready_outputs/descriptive_summary/ch04_category_prevalence.csv,Activation prevalence and score summaries for all 80 categories
+4.2.5 and Figure 4.4,Overall descriptive IGO profiles,07_analysis_ready_outputs/descriptive_summary/ch04_igo_overall_profiles.csv,Unweighted mean across 80 across-IGO category scores and activation counts for 48 IGOs
+Figure 4.4,Ranked organisation profile visualisation,07_analysis_ready_outputs/descriptive_summary/ch04_igo_overall_profile_plot.png,Ranked dot plot of mean across-IGO category-profile scores

@@ -1,0 +1,97 @@
+relative_path,exclusion_reason
+02_document_corpus/data/interim/ch04_s2_corpus_pages_2435.csv.gz,Original page-extraction table replaced by metadata-only public index.
+02_document_corpus/data/interim/ch04_s2_corpus_paragraphs_5159.csv.gz,Full paragraph text extraction replaced by metadata-only public index.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0001_isa_agreement_relating_to_the_imp_of_part_xi_of_unclos.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0002_ifad_agreement_ifad.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0003_brs_brs_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0004_cbd_cbd_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0005_cites_cites_convention_en.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0006_iom_constitution_of_the_international_organization_for_migr.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0007_itu_constitution_of_the_itu.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0008_itu_convention_itu.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0009_cms_convention_on_the_conservation_of_migratory_species_of.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0010_iho_convention_iho.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0011_fao_fao_basic_text.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0012_iaea_iaea_statute.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0013_ices_ices_convention_1964.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0014_iho_iho_basic_document.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0015_ilo_ilo_constitution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0016_imf_imf_article_of_agreement.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0017_imo_imo_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0018_isa_international_seabed_authority.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0019_ioc_ioc_statute.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0020_ipcc_ipcc_principles_and_procedures.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0021_unep_ipcc_founding_wmo_unep_resolution_s.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0022_itc_itc_general_agreement_tariffs_and_trade.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0023_minamata_minamata_convention_booklet_sep2019_en.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0024_oecd_oecd_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0025_ipbes_operating_princinples_of_ipbes.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0026_ramsar_ramsar_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0027_unctad_rules_of_procedure_unctad.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0028_unhcr_ohchr_statute_of_the_office_of_the_un_high_commissioner_for_r.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0029_un_doalos_un_daolos.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0030_unicef_un_general_assembly_resolution_creating_unicef.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0031_ungc_un_global_compact.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0032_unfpa_un_population_fund_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0033_un_women_un_women_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0034_unccd_unccd_convention_eng_0_0.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0035_unctad_unctad_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0036_undp_undp_un_general_assembly_establishing_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0037_undrr_undrr_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0038_ipbes_unep_gov_council_est_ipbes.doc,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0039_unep_unep_secretriat_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0040_unfccc_unfccc.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0041_unfccc_unga_resolution_on_unfccc.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0042_unido_unido_constitution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0043_unodc_unodc_unga_ecosoc_mandate_document_2.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0044_unoosa_unoosa_unga_mandate_secretariat_terms.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0045_unops_unops_resolution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0046_unrisd_unrisd_secretariat_bulletin.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0047_unrisd_unrisd.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0048_unu_unu_charter_2014.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0049_unwto_unwto_statute.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0050_wfp_wfp_general_regulations_and_rules_basic_texts.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0051_who_who_constitution.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0052_wipo_wipo_convention.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0053_wmo_wmo_basic_document.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0054_wbg_world_bank_ibrd_articles_of_agreement_1944.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0055_wbg_world_bank_ibrdarticlesofagreementenglish.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0056_wfp_world_food_programme.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0057_unwto_world_tourism_organisation.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+02_document_corpus/data/raw/igo_documents/ch04_doc_0058_wto_wto_marrakesh_agreement_establishing_the_world_trade_or.pdf,Third-party source document excluded from public distribution; reacquire from issuing organisation.
+03_attribute_coding_clean_review/data/ch04_s3_candidate_review_queue_3636.csv,Evidence-rich table replaced by metadata-only public index: ch04_s3_candidate_review_index_public_3636.csv.
+03_attribute_coding_clean_review/data/ch04_s3_decision_log.csv,Evidence-rich table replaced by metadata-only public index: ch04_s3_decision_log_public_3676.csv.
+03_attribute_coding_clean_review/data/ch04_s3_traceability_long_file_3074.csv,Evidence-rich table replaced by metadata-only public index: ch04_s3_traceability_index_public_3074.csv.
+03_attribute_coding_clean_review/outputs/tables/ch04_s3_attribute_coding_bundle.xlsx,Workbook embeds source excerpts and duplicated long-form evidence; public CSV indexes replace it.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_defined_objectives.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_horizontal_coordination.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_interinstitutional_relationships.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_sources_of_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_spatial_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_strategies.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_subject_matter_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/clean/ch04_s6_clean_vertical_coordination.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_defined_objectives.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_horizontal_coordination.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_interinstitutional_relationships.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_sources_of_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_spatial_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_strategies.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_subject_matter_jurisdiction.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/data/raw/ch04_s6_raw_vertical_coordination.xlsx,Text-bearing RAW/CLEAN workbook excluded from public distribution; category matrices and scores retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_defined_interinstitutional_relationships_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_defined_objectives_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_horizontal_coordination_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_sources_of_jurisdiction_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_spatial_jurisdiction_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_strategies_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_subject_matter_jurisdiction_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_csvs/ch04_s6_vertical_coordination_traceability_long_corrected.csv,Traceability table embeds verbatim attribute text and KWIC evidence; matrix-wide output retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_defined_interinstitutional_relationships_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_defined_objectives_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_horizontal_coordination_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_sources_of_jurisdiction_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_spatial_jurisdiction_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_strategies_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_subject_matter_jurisdiction_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
+06_scoring_and_normalisation/outputs/family_workbooks/ch04_s6_vertical_coordination_corrected.xlsx,Workbook embeds verbatim text and KWIC evidence; corresponding matrix-wide CSV retained.
