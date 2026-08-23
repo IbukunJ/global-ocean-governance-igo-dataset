@@ -1,0 +1,24 @@
+Chapter 3 Data Archive v1.1.0 — Validation Report
+Generated: 2026-07-31
+
+Stage 1 count reconciliation
+- Initial records identified: 100
+- Reconciled full-text assessed set: 90
+- Final included corpus: 79
+- Full-text exclusions: 11
+- Screened-only records restored to assessed union: 1
+
+Machine-readable output checks
+- Stage1_FullText_Assessed_Reconciled_90.csv data rows: 90
+- Included status rows: 79
+- Excluded status rows: 11
+- Stage1_Excluded_FullText_Records_11.csv data rows: 11
+
+Workbook checks
+- ReadFirst sheets: 6
+- Full-Text Assessed (90) range: A1:P91
+- Excluded Full-Text (11) range: A1:P12
+- Formula error scan: no matches
+
+Known limitation
+- The identities of the ten preliminary removals between 100 identified and 90 assessed are not preserved.

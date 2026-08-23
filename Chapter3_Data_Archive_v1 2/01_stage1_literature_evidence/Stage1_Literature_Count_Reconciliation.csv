@@ -1,0 +1,7 @@
+stage_or_metric,count,change_from_previous,evidence_basis,interpretation,status,limitation
+Initial records identified,100,,Ten structured Google Scholar searches with ten results reviewed per search.,Initial bounded search pool.,Confirmed methodological count,The original 100-record bibliographic list is not retained as a separate sheet.
+Records in surviving candidate export (1 - Literature),89,,89 non-empty bibliographic data rows after excluding the title row and header row.,Incomplete surviving export of the assessed set.,Confirmed workbook count,One included publication is absent from this sheet.
+Screened-only record recovered,1,1,One title occurs in Screened Literature but not in 1 - Literature.,Added to the reconciled assessed union.,Reconciled,Its original position in the candidate export is unknown.
+Publications assessed at full text,90,-10,Unique normalised-title union of both surviving Stage 1 bibliographic sheets (89 + 1).,Controlling intermediate count; supersedes 91.,Controlling count,The identities of the ten preliminary removals are not preserved.
+Publications included in qualitative synthesis,79,-11,79 unique records in Screened Literature.,Final Literature Evidence Dataset corpus.,Confirmed,"Record-specific inclusion decisions are represented by final presence, not a separate reason field."
+Publications excluded at full-text eligibility review,11,,Candidate-title set minus final included-title set.,Reconciles 90 assessed to 79 included.,Confirmed set difference,Record-specific exclusion reasons were not preserved.

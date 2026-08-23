@@ -1,0 +1,6 @@
+folder,purpose
+00_readme_and_manifest,"Contains the archive manifest, structure guide, count reconciliation note, release notes, and integrity checksums."
+01_stage1_literature_evidence,"Documents the 100 → 90 → 79 literature-screening funnel, the reconciled 90-publication assessed set, the final 79-publication corpus, and provisional seed-theme provenance."
+02_stage2_governance_theme_dataset,"Documents the 26 seed themes, 80-theme inventory, synonym expansion, stop-list, candidate retrieval queues, code, and run diagnostics."
+03_stage3_reduction_and_taxonomy,"Documents the reduction from themes to concepts, constructs, categories, and the final nine-attribute taxonomy."
+04_chapter_figures,Contains figures used to explain or diagnose the Chapter 3 workflow.
