@@ -1,0 +1,4 @@
+filtering_condition,operational_rule,analytical_purpose
+High mandate similarity,mandate_similarity >= 0.734434,Identifies dyads in the upper decile of mandate overlap.
+Low relational similarity,relational_similarity <= 0.612685,Identifies dyads in the lower decile of relational coupling.
+Highest-incongruence dyads,both conditions met,Identifies 13 dyads combining high mandate overlap with comparatively weak relational coupling.

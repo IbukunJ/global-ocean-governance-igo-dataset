@@ -1,0 +1,23 @@
+organisation,degree,strength,betweenness,eigenvector_centrality,community,relational_position
+IOC,13,11.513702,0.089732,1.0,1,System-wide connector
+UNICEF,13,11.523409,0.281221,0.985533,0,System-wide connector
+ICES,11,9.708879,0.052729,0.905998,0,System-wide connector
+WHO,11,9.80615,0.115634,0.831345,1,System-wide connector
+WTO,11,9.746385,0.026827,0.806797,0,System-wide connector
+IAEA,11,9.80676,0.076781,0.706278,0,Cross-cluster broker
+UNEP,8,7.132033,0.076781,0.518283,2,Cross-cluster broker
+UNFPA,4,3.560547,0.13691,0.123738,3,Cross-cluster broker
+UN Women,8,7.021175,0.037003,0.624501,1,Cross-cluster broker
+IPCC,9,7.95493,0.023127,0.668704,1,Cross-cluster broker
+IMO,10,8.887449,0.06753,0.663165,0,Domain connector
+UNWTO,10,8.839314,0.051804,0.608983,2,Domain connector
+UN DOALOS,0,0.0,0.0,0.0,6,Silo / near-isolate
+IMF,0,0.0,0.0,0.0,4,Silo / near-isolate
+UNRISD,0,0.0,0.0,0.0,8,Silo / near-isolate
+IPBES,0,0.0,0.0,0.0,5,Silo / near-isolate
+UNOPS,0,0.0,0.0,0.0,7,Silo / near-isolate
+UNU,0,0.0,0.0,0.0,9,Silo / near-isolate
+CITES,1,0.889318,0.0,0.018146,0,Weakly embedded
+Ramsar,2,1.758443,0.0,0.17366,0,Weakly embedded
+CMS,1,0.891849,0.0,0.04439,1,Weakly embedded
+OECD,1,0.860769,0.0,0.011367,1,Weakly embedded

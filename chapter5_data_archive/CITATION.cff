@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below and the version-specific DOI when available."
+title: "Chapter 5 Data and Reproducibility Archive: Fragmentation, Coordination and Functional Differentiation in Global Ocean Economy Governance"
+type: dataset
+authors:
+  - family-names: "Adewumi"
+    given-names: "Ibukun"
+version: "1.0.0"
+date-released: 2026-08-02
+abstract: >-
+  Public data and reproducibility archive for the comparative analysis of
+  institutional incongruence, relational coordination, and functional
+  differentiation across 48 intergovernmental organisations involved in
+  global ocean economy governance. The archive contains analysis-ready
+  datasets, public-safe normalised input matrices, R scripts, figures,
+  methodological documentation, and quality-assurance records.
+keywords:
+  - global ocean governance
+  - ocean economy
+  - intergovernmental organisations
+  - institutional fragmentation
+  - relational coordination
+  - functional differentiation
+  - organisational ecology
+  - reproducible research

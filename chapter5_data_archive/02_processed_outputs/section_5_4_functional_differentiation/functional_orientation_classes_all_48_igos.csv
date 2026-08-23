@@ -1,0 +1,49 @@
+rank_descending,figure_label,igo_acronym,canonical_institution,functional_alignment_score,functional_orientation
+1,UNU,UNU,United Nations University (UNU),5.83,Technical-rule dominant
+2,UNODC,UNODC,United Nations Office on Drugs and Crime (UNODC),4.5,Technical-rule dominant
+3,WHO,WHO,World Health Organization (WHO),4.44,Technical-rule dominant
+4,CCS,UNFCCC,Climate Change Secretariat,4.38,Technical-rule dominant
+5,UNWTO,UNWTO,World Tourism Organization/UN Tourism (UNWTO),4.33,Technical-rule dominant
+6,IMF,IMF,International Monetary Fund (IMF),4.17,Technical-rule dominant
+7,UNOPS,UNOPS,United Nations Office for Project Services (UNOPS),4.17,Technical-rule dominant
+8,IOC,IOC,Intergovernmental Oceanographic Commission (IOC),3.89,Technical-rule dominant
+9,WFP,WFP,World Food Programme (WFP),3.61,Technical-rule dominant
+10,UN-Habitat,UN-Habitat,United Nations Human Settlements Programme (UN-Habitat),3.5,Technical-rule dominant
+11,ISA,ISA,International Seabed Authority,3.33,Technical-rule dominant
+12,IAEA,IAEA,International Atomic Energy Agency (IAEA),3.17,Technical-rule dominant
+13,UNDRR,UNDRR,United Nations Office for Disaster Risk Reduction (UNDRR),3.13,Technical-rule dominant
+14,WTO,WTO,World Trade Organization (WTO),3.06,Technical-rule dominant
+15,ILO,ILO,International Labour Organization (ILO),2.92,Technical-rule dominant
+16,ITU,ITU,International Telecommunication Union (ITU),2.92,Technical-rule dominant
+17,FAO,FAO,Food and Agriculture Organization of the United Nations (FAO),2.78,Technical-rule dominant
+18,UNFPA,UNFPA,UN Population Fund (UNFPA),2.67,Technical-rule dominant
+19,UNCTAD,UNCTAD,United Nations Conference on Trade and Development (UNCTAD),2.5,Technical-rule dominant
+20,CITES,CITES,Secretariat of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),2.33,Technical-rule dominant
+21,Ramsar,Ramsar,Ramsar Convention on Wetlands Secretariat (Ramsar),2.29,Technical-rule dominant
+22,UN DOALOS,UN DOALOS,Division for Ocean Affairs and the Law of the Sea (UN DOALOS),2.22,Technical-rule dominant
+23,OECD,OECD,Organisation for Economic Co-operation and Development (OECD),1.94,Technical-rule dominant
+24,UNIDO,UNIDO,"United Nations Industrial Development Organization (UNIDO),",1.67,Technical-rule dominant
+25,CMS,CMS,Secretariat of the Convention on Migratory Species (CMS),1.67,Technical-rule dominant
+26,UNICEF,UNICEF,United Nations Children’s Fund (UNICEF),1.53,Technical-rule dominant
+27,IMO,IMO,Convention on the Intergovernmental Maritime Consultative Organization (IMO) Secretariat,1.5,Technical-rule dominant
+28,UNGC,UNGC,UN Global Compact Office,1.17,Technical-rule dominant
+29,WMO,WMO,World Meteorological Organization (WMO),0.83,Balanced
+30,ICES,ICES,International Council for the Exploration of the Sea (ICES),0.83,Balanced
+31,IOM,IOM,International Organization for Migration (IOM),0.67,Balanced
+32,IHO,IHO,International Hydrographic Organization (IHO),0.56,Balanced
+33,CBD,CBD,Secretariat of the Convention on Biological Diversity (CBD),0.42,Balanced
+34,WBG,WBG,World Bank Group (WBG),0.42,Balanced
+35,UNDP,UNDP,United Nations Development Programme (UNDP),0.33,Balanced
+36,UN-Women,UN Women,UN Entity for Gender Equality and the Empowerment of Women (UN-Women),0.28,Balanced
+37,UNOOSA,UNOOSA,United Nations Office for Outer Space Affairs (UNOOSA),0.28,Balanced
+38,IFAD,IFAD,International Fund for Agricultural Development (IFAD),0.28,Balanced
+39,ITC,ITC,International Trade Centre (ITC),-0.17,Balanced
+40,Minamata,Minamata,Minamata Convention on Mercury (Minamata),-0.5,Balanced
+41,UNEP,UNEP,United Nations Environment Programme (UNEP),-1.17,Guardrail dominant
+42,UNHCR/OHCHR,UNHCR/OHCHR,"Commissioner for Refugees (UNHCR), and the Office of the United Nations High Commissioner for Human Rights (OHCHR)",-1.39,Guardrail dominant
+43,UNCCD,UNCCD,Secretariat of the United Nations Convention to Combat Desertification (UNCCD),-1.46,Guardrail dominant
+44,IPBES,IPBES,The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES),-1.67,Guardrail dominant
+45,WIPO,WIPO,World Intellectual Property Organisation (WIPO),-1.67,Guardrail dominant
+46,UNRISD,UNRISD,UN Research Institute for Social Development (UNRISD),-1.67,Guardrail dominant
+47,BRS,BRS,"Secretariat of the Basel, Rotterdam and Stockholm Conventions (BRS)",-2.22,Guardrail dominant
+48,IPCC,IPCC,IPCC,-3.96,Guardrail dominant

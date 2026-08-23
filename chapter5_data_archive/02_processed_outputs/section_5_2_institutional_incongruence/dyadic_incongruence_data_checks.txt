@@ -1,0 +1,15 @@
+Figure 5.2 data checks
+
+Input matrix: igo_full_matrix_wide_173cols.csv
+Number of IGOs: 48
+Number of unordered dyads: 1128
+Mean delta incongruence: -0.298435
+Median delta incongruence: -0.288402
+Standard deviation: 0.241301
+Minimum delta incongruence: -0.910600
+Maximum delta incongruence: 0.452943
+Lower tertile: -0.403760
+Upper tertile: -0.193605
+q90 mandate threshold: 0.734434
+q10 relational threshold: 0.612685
+High-mandate/low-relational dyads: 13

@@ -1,0 +1,8 @@
+statistic,value,value_rounded
+Number of IGOs / nodes,48.0,48.000
+Possible unordered dyads,1128.0,1128.000
+Relational similarity threshold for retained ties,0.8607693689960585,0.8608
+Retained ties after q90 sparsification,113.0,113.000
+Network density,0.10017730496453901,0.1002
+Size of main connected component,42.0,42.000
+Number of isolates under q90 rule,6.0,6.000

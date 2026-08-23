@@ -1,0 +1,14 @@
+file,file_type,comments,tracked_change_elements,external_links,sheets,review_result,notes
+00_documentation/methodological_reference/appendix_5a_chapter5_computational_methods_data_archive.docx,docx,0,0,,,PASS,
+00_documentation/methodological_reference/appendix_5a_chapter5_computational_methods_tools_packages_code.docx,docx,0,0,,,PASS,
+00_documentation/methodological_reference/attribute_category_identification_reference.docx,docx,0,0,,,PASS,
+00_documentation/methodological_reference/methodological_pipeline_text_standardisation_category_mapping_scoring.docx,docx,0,0,,,PASS,
+01_raw_inputs/normalised_attribute_workbooks/defined_objectives_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/horizontal_coordination_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/interinstitutional_relationships_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/sources_of_jurisdiction_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/spatial_jurisdiction_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/strategies_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/subject_matter_jurisdiction_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/vertical_coordination_full_normalised.xlsx,xlsx,0,,0,,PASS,No evidence-rich Traceability_Long sheet.
+01_raw_inputs/normalised_attribute_workbooks/year_of_establishment_categories_density.xlsx,xlsx,0,,0,Sheet1,PASS,No evidence-rich Traceability_Long sheet.

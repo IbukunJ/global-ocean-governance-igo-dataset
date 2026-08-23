@@ -1,0 +1,7 @@
+source('03_scripts/R/00_setup_packages.R')
+source('03_scripts/R/01_figure_5_1_delta_distribution.R')
+source('03_scripts/R/02_figure_5_2_mandate_relational_space.R')
+source('03_scripts/R/02b_figure_5_3_mandate_overlap_chord_edges.R')
+source('03_scripts/R/03_relational_network_tables.R')
+source('03_scripts/R/04_network_visualisation_scaffold.R')
+source('03_scripts/R/05_functional_differentiation_tables.R')

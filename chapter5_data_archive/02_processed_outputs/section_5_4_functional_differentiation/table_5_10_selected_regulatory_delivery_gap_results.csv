@@ -1,0 +1,8 @@
+organisation,regulatory_strength,delivery_capacity,regulatory_delivery_gap,profile_type
+ITU,3.958,0.238,3.72,Regulatory-heavy
+IOC,4.583,1.286,3.298,Regulatory-heavy
+UNOOSA,3.75,0.714,3.036,Regulatory-heavy
+ILO,3.75,0.714,3.036,Regulatory-heavy
+IAEA,2.5,2.476,0.024,Near-aligned
+UN DOALOS,2.917,2.952,-0.035,Near-aligned / slightly delivery-heavy
+UNDRR,0.0,1.619,-1.619,Delivery-heavy

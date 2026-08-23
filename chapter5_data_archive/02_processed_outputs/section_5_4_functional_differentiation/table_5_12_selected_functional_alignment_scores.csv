@@ -1,0 +1,22 @@
+organisation,functional_alignment_score,functional_orientation
+UNU,5.83,Technical-rule dominant
+UNODC,4.5,Technical-rule dominant
+WHO,4.44,Technical-rule dominant
+UNWTO,4.33,Technical-rule dominant
+IMF,4.17,Technical-rule dominant
+UNOPS,4.17,Technical-rule dominant
+IOC,3.89,Technical-rule dominant
+WMO,0.83,Balanced
+ICES,0.83,Balanced
+IOM,0.67,Balanced
+IHO,0.56,Balanced
+CBD Secretariat,0.42,Balanced
+World Bank Group,0.42,Balanced
+UNDP,0.33,Balanced
+ITC,-0.17,Balanced
+Minamata Convention Secretariat,-0.5,Balanced
+UNEP,-1.17,Guardrail dominant
+UNHCR/OHCHR,-1.39,Guardrail dominant
+UNCCD Secretariat,-1.46,Guardrail dominant
+BRS Secretariat,-2.22,Guardrail dominant
+IPCC,-3.96,Guardrail dominant

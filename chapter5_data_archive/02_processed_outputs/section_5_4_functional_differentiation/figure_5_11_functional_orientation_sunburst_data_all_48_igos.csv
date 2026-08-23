@@ -1,0 +1,53 @@
+id,parent,label,value,functional_alignment_score,functional_orientation
+All IGOs,,All IGOs,48,,
+Technical-rule dominant,All IGOs,Technical-rule dominant,28,,Technical-rule dominant
+Balanced,All IGOs,Balanced,12,,Balanced
+Guardrail dominant,All IGOs,Guardrail dominant,8,,Guardrail dominant
+Technical-rule dominant::UNU,Technical-rule dominant,UNU,1,5.83,Technical-rule dominant
+Technical-rule dominant::UNODC,Technical-rule dominant,UNODC,1,4.5,Technical-rule dominant
+Technical-rule dominant::WHO,Technical-rule dominant,WHO,1,4.44,Technical-rule dominant
+Technical-rule dominant::UNFCCC,Technical-rule dominant,UNFCCC,1,4.38,Technical-rule dominant
+Technical-rule dominant::UNWTO,Technical-rule dominant,UNWTO,1,4.33,Technical-rule dominant
+Technical-rule dominant::IMF,Technical-rule dominant,IMF,1,4.17,Technical-rule dominant
+Technical-rule dominant::UNOPS,Technical-rule dominant,UNOPS,1,4.17,Technical-rule dominant
+Technical-rule dominant::IOC,Technical-rule dominant,IOC,1,3.89,Technical-rule dominant
+Technical-rule dominant::WFP,Technical-rule dominant,WFP,1,3.61,Technical-rule dominant
+Technical-rule dominant::UN-Habitat,Technical-rule dominant,UN-Habitat,1,3.5,Technical-rule dominant
+Technical-rule dominant::ISA,Technical-rule dominant,ISA,1,3.33,Technical-rule dominant
+Technical-rule dominant::IAEA,Technical-rule dominant,IAEA,1,3.17,Technical-rule dominant
+Technical-rule dominant::UNDRR,Technical-rule dominant,UNDRR,1,3.13,Technical-rule dominant
+Technical-rule dominant::WTO,Technical-rule dominant,WTO,1,3.06,Technical-rule dominant
+Technical-rule dominant::ILO,Technical-rule dominant,ILO,1,2.92,Technical-rule dominant
+Technical-rule dominant::ITU,Technical-rule dominant,ITU,1,2.92,Technical-rule dominant
+Technical-rule dominant::FAO,Technical-rule dominant,FAO,1,2.78,Technical-rule dominant
+Technical-rule dominant::UNFPA,Technical-rule dominant,UNFPA,1,2.67,Technical-rule dominant
+Technical-rule dominant::UNCTAD,Technical-rule dominant,UNCTAD,1,2.5,Technical-rule dominant
+Technical-rule dominant::CITES,Technical-rule dominant,CITES,1,2.33,Technical-rule dominant
+Technical-rule dominant::Ramsar,Technical-rule dominant,Ramsar,1,2.29,Technical-rule dominant
+Technical-rule dominant::UN DOALOS,Technical-rule dominant,UN DOALOS,1,2.22,Technical-rule dominant
+Technical-rule dominant::OECD,Technical-rule dominant,OECD,1,1.94,Technical-rule dominant
+Technical-rule dominant::UNIDO,Technical-rule dominant,UNIDO,1,1.67,Technical-rule dominant
+Technical-rule dominant::CMS,Technical-rule dominant,CMS,1,1.67,Technical-rule dominant
+Technical-rule dominant::UNICEF,Technical-rule dominant,UNICEF,1,1.53,Technical-rule dominant
+Technical-rule dominant::IMO,Technical-rule dominant,IMO,1,1.5,Technical-rule dominant
+Technical-rule dominant::UNGC,Technical-rule dominant,UNGC,1,1.17,Technical-rule dominant
+Balanced::WMO,Balanced,WMO,1,0.83,Balanced
+Balanced::ICES,Balanced,ICES,1,0.83,Balanced
+Balanced::IOM,Balanced,IOM,1,0.67,Balanced
+Balanced::IHO,Balanced,IHO,1,0.56,Balanced
+Balanced::CBD,Balanced,CBD,1,0.42,Balanced
+Balanced::WBG,Balanced,WBG,1,0.42,Balanced
+Balanced::UNDP,Balanced,UNDP,1,0.33,Balanced
+Balanced::UN Women,Balanced,UN Women,1,0.28,Balanced
+Balanced::UNOOSA,Balanced,UNOOSA,1,0.28,Balanced
+Balanced::IFAD,Balanced,IFAD,1,0.28,Balanced
+Balanced::ITC,Balanced,ITC,1,-0.17,Balanced
+Balanced::Minamata,Balanced,Minamata,1,-0.5,Balanced
+Guardrail dominant::UNEP,Guardrail dominant,UNEP,1,-1.17,Guardrail dominant
+Guardrail dominant::UNHCR/OHCHR,Guardrail dominant,UNHCR/OHCHR,1,-1.39,Guardrail dominant
+Guardrail dominant::UNCCD,Guardrail dominant,UNCCD,1,-1.46,Guardrail dominant
+Guardrail dominant::IPBES,Guardrail dominant,IPBES,1,-1.67,Guardrail dominant
+Guardrail dominant::WIPO,Guardrail dominant,WIPO,1,-1.67,Guardrail dominant
+Guardrail dominant::UNRISD,Guardrail dominant,UNRISD,1,-1.67,Guardrail dominant
+Guardrail dominant::BRS,Guardrail dominant,BRS,1,-2.22,Guardrail dominant
+Guardrail dominant::IPCC,Guardrail dominant,IPCC,1,-3.96,Guardrail dominant
