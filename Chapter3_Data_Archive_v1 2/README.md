@@ -81,4 +81,4 @@ files, and working thesis drafts.
 
 ## Citation
 
-> Adewumi, I. (2026). *Global Ocean Economy Governance IGO Attribute Dataset and Reproducibility Archive* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
+> Adewumi, I. (2026). *Global ocean economy governance IGO data archive I: Literature screening, theme discovery, and governance attribute derivation* (Version 1.0.0) [Data set], Zenodo, doi: 10.5281/zenodo.22058522.>
