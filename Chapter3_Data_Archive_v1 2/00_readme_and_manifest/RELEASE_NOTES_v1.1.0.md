@@ -26,5 +26,4 @@ The earlier intermediate count of 91 is superseded.
 ## Evidentiary limitation
 
 The identities of the ten records removed between the initial 100-record pool and the 90-publication
-full-text assessment set were not preserved in the surviving files. No unsupported records or reasons
-have been reconstructed.
+full-text assessment set were not preserved in the surviving files. 
